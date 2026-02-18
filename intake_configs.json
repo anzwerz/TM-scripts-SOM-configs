@@ -1,0 +1,56 @@
+{
+    "mapping": {
+        "Polman": "config_1",
+        "FitClinic": "config_2"
+    },
+    "config_1": {
+        "beloop": {
+            "niets vastgelegd": "803",
+            "afgenomen": "755",
+            "niet gewijzig": "802",
+            "toegenomen": "804",
+            "wisselend": "801"
+        },
+        "herstelPatient": {
+            "progressie": "572",
+            "geringe": "569",
+            "matige": "567",
+            "bepalen": "800",
+            "Onderhoud": "565",
+            "klachten": "571",
+            "Stabilisatie": "573",
+            "herstel": "568"
+        },
+        "herstelFysio": {
+            "progressie": "572",
+            "geringe": "569",
+            "matige": "567",
+            "bepalen": "800",
+            "Onderhoud": "565",
+            "klachten": "571",
+            "Stabilisatie": "573",
+            "herstel": "568"
+        }
+    },
+    "config_2": {
+        "beloop": {
+            "niets vastgelegd": "725",
+            "afgenomen": "726",
+            "niet gewijzig": "727",
+            "toegenomen": "728",
+            "wisselend": "729"
+        },
+        "herstelPatient": {
+            "bepalen": "716",
+            "klachten": "717",
+            "Stabilisatie": "718",
+            "Herstel": "719"
+        },
+        "herstelFysio": {
+            "bepalen": "716",
+            "klachten": "717",
+            "Stabilisatie": "718",
+            "Herstel": "719"
+        }
+    }
+}
