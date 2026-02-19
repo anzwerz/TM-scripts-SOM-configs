@@ -1,7 +1,7 @@
 {
     "mapping": {
         "Polman": "config_1",
-        "FitClinic": "config_2"
+        "FITclinic": "config_2"
     },
     "config_1": {
         "beloop": {
